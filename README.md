@@ -20,7 +20,7 @@ Road maps of the **MIPT campus (Moscow Institute of Physics and Technology)** an
 For model training the [DeepGlobe Road Extraction Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset) was used, which contains approximately 6k images, each 1024x1024, with a scale of 50cm per pixel.
 
 ### Usage
-* The first option is to open and run the notebook `/notebooks/road-mapping.ipynb` with comments and visualizations in Kaggle or Google Colab.
+* The first option is to open and run the notebook `/notebooks/road_mapping.ipynb` with comments and visualizations in Kaggle or Google Colab.
 
 * The second option is cloning the repo, installing the needed requirements, and working locally:
 ```
