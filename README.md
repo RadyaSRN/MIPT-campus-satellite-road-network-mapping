@@ -8,7 +8,7 @@ https://colab.research.google.com/github/RadyaSRN/MIPT-campus-satellite-road-net
 https://wandb.ai/radyasrn-mipt/CV-spring-2025/reports/CV-spring-2025-satellite-road-mapping--VmlldzoxMjA5NTU0OQ)
 
 # MIPT campus road network mapping from satellite images
-Road maps of the **MIPT campus (Moscow Institute of Physics and Technology)** and its surroundings are generated from satellite imagery using segmentation models (**UNet** and **DeepLabV3**) and road network graph reconstruction techniques.
+Road maps of the **MIPT campus (Moscow Institute of Physics and Technology)** and its surroundings are generated from satellite imagery using segmentation models (**[UNet](https://en.wikipedia.org/wiki/U-Net)** and **[DeepLabV3](https://docs.pytorch.org/vision/main/models/generated/torchvision.models.segmentation.deeplabv3_mobilenet_v3_large.html)**) and road network graph reconstruction techniques.
 
 <p align="center">
   <img src="images/roadmap5-mipt.png" alt="Image 1" width="250"/>
